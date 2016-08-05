@@ -5,7 +5,7 @@ Online Resume
 
 GENERAL USAGE NOTE
 --------------------------------------------------------------------------------
-- The interactive game is created with JavaScript that 
+- The interactive game is created with JavaScript and the application reads the resume content from a JSON file and dynamically displays that content within a provided template
 - To view the Online Resume open index.html in your browser
 
 OTHER
